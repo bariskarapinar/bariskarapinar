@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Baris Karapinar 👋</h1>
+<h1 align="center">Hi there, I'm Baris 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-MSc-blue?style=for-the-badge" />
