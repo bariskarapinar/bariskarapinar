@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer (MSc)** with a strong focus on **Android Development**. I specialize in creating high-performance, user-centric mobile applications using **Kotlin** and **Java**. My approach combines academic depth with practical expertise to build scalable solutions.
+I am a **Computer Engineer (MSc)** with a strong focus on **Android Development**. I specialize in creating high-performance, user-centric mobile applications using **Kotlin** and **Java**. My approach combines academic depth with practical expertise to build scalable solutions.
 
 - 📱 **Android Specialist:** Expert in **MVVM**, **Jetpack** (Room, LiveData, ViewModel), and **Clean Architecture**.
 - 🎓 **MSc Background:** Strong foundations in **Computer Science** and Software Engineering principles.
